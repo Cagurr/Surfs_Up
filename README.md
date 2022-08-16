@@ -15,12 +15,12 @@ While returning from Hawaii, I brought something unexpected with me.  I brought 
 ### June Data
 
 PyBer Summary Data Frame:
-![june_temps.png](june_temps.png)
+![june_temps.png](Resources/june_temps.png)
 
 ### December Data
 
 PyBer Summary Data Frame:
-![dec_temps.png](dec_temps.png)
+![dec_temps.png](Resources/dec_temps.png)
 
 #### Bullet #1:  Average temperature in June is only 4 degrees higher than in December
 
@@ -39,4 +39,4 @@ While the average and maximum temperatures were very close, the minimum temperat
 ## PyBer Analysis Code Snippets
 
 SQLite query:
-![code_snip.png](code_snip.png)
+![code_snip.png](Resources/code_snip.png)
